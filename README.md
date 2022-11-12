@@ -6,7 +6,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨‍🎓 Computer Student at **1337MED/42network**
+- 👨‍🎓 Computer Student at **42network**
 
 - 🐍 Python Enthusiast
 
