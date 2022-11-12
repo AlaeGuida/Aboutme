@@ -6,6 +6,10 @@
 
 <h3 align="left">About me:</h3>
 
+- 👨‍🎓 Computer Student at **1337MED/42network**
+
+- 🐍 Python Enthusiast
+
 - 🔭 I’m currently working on **C Projects**
 
 - 📚 I’m currently learning **Django**
