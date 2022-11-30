@@ -16,7 +16,7 @@
 
 - 👨🏻‍💻 I’m looking to collaborate on **Back-end** & **DevOps** Projects
 
-- 📫 How to reach me **alaeddineguida@gmail.com**
+- 📫 Reach me through **alaeddineguida@gmail.com**
 
 - ✅ Fact: **Madd A9wed Rapper**
 
