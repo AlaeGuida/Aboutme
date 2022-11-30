@@ -8,7 +8,7 @@
 
 - 👨‍🎓 Computer Student at **42network**
 
-- 🐍 Python lover
+- 🐍 Married to **Python**
 
 - 🔭 **DevOps** Enthusiast
 
