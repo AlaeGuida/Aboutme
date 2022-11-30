@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **alaeddineguida@gmail.com**
 
-- ✅ Fact: **MADD A9wed Rapper**
+- ✅ Fact: **Madd A9wed Rapper**
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
