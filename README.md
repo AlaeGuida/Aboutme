@@ -18,8 +18,6 @@
 
 - 📫 Reach me through **alaeddineguida@gmail.com**
 
-- ✅ Fact: **Madd A9wed Rapper**
-
 <h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://dev.to/alaeguida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alaeguida" height="30" width="40" /></a>
