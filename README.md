@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋, I'm Alae Guida, a Developer who tries to build a time-travel machine 🛸</h2>
+<h2 align="center">Hey 👋, Welcome to a Software Developer's profile who tries to build a time-travel machine 🛸</h2>
 
 <img align="center" width="700" alt="time-travel" src="https://user-images.githubusercontent.com/60274970/201343148-83cab75c-b403-42a0-8739-fba33d8993da.gif">
 
