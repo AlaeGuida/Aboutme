@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Alae Guida, CS student who time-travel using code 🛸</h2>
 
-| <img align="center" alt="time-travel" src="https://user-images.githubusercontent.com/60274970/201343148-83cab75c-b403-42a0-8739-fba33d8993da.gif"> | ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3qy528vs3copcgz41ft9y48y1&width=300)|
-|:-:|:-:|
-
+<img align="center" alt="time-travel" src="https://user-images.githubusercontent.com/60274970/201343148-83cab75c-b403-42a0-8739-fba33d8993da.gif">
 
 <h3 align="left">About me:</h3>
 
