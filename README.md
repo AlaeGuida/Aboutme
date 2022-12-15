@@ -12,7 +12,7 @@
 
 - 🔭 **DevOps** Enthusiast
 
-- 📚 I’m currently learning **Django**
+- 📚 I’m currently learning **Python Frameworks**
 
 - 👨🏻‍💻 I’m looking to collaborate on **Back-end** & **DevOps** Projects
 
