@@ -4,7 +4,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨‍🎓 Former Computer Science Student at **1337 School**
+- 👨‍🎓 Computer Science Alumni at **1337 MED**
 
 - 🐍 Married to **Python**
 
