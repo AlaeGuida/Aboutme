@@ -4,15 +4,13 @@
 
 <h3 align="left">About me:</h3>
 
-- 👨‍🎓 Computer Science Alumni at **1337 MED**
+- 👨‍🎓 Computer Science Student
 
 - 🐍 Married to **Python**
 
 - 🔭 **DevOps** Enthusiast
 
-- 📚 I’m currently learning **Python Frameworks**
-
-- 👨🏻‍💻 I’m looking to collaborate on **Back-end** & **DevOps** Projects
+- 📚 Ccurrently learning advanced **Python** concepts
 
 - 📫 Reach me through **alaeddineguida@gmail.com**
 
