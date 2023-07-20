@@ -10,7 +10,7 @@
 
 - 🔭 **DevOps** Enthusiast
 
-- 📚 Ccurrently learning advanced **Python** concepts
+- 📚 Currently learning advanced **Python** concepts
 
 - 📫 Reach me through **alaeddineguida@gmail.com**
 
