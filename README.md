@@ -7,8 +7,7 @@
 - 🔭 **DevOps** Enthusiast
 
 - 📚 Currently learning advanced **C++** concepts
-
-- 📫 Reach me through **alaeddineguida@gmail.com**
+- 
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
