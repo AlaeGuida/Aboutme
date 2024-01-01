@@ -7,7 +7,7 @@
 - 🔭 **DevOps** Enthusiast
 
 - 📚 Currently learning advanced **C++** concepts
-- 
+
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
