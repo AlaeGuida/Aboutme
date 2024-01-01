@@ -1,7 +1,3 @@
-<h2 align="center">If you're wondering what am I doing, I'm building a time-travel machine 🛸</h2>
-
-<img align="center" width="700" alt="time-travel" src="https://user-images.githubusercontent.com/60274970/201343148-83cab75c-b403-42a0-8739-fba33d8993da.gif">
-
 <h3 align="left">About me:</h3>
 
 - 👨‍🎓 Computer Science Student
@@ -10,7 +6,7 @@
 
 - 🔭 **DevOps** Enthusiast
 
-- 📚 Currently learning advanced **Python** concepts
+- 📚 Currently learning advanced **C++** concepts
 
 - 📫 Reach me through **alaeddineguida@gmail.com**
 
